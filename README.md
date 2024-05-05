@@ -15,7 +15,7 @@ Evaluation: Submissions are evaluated on Root Mean Squared Logarithmic Error (RM
 
 **sample_submission.csv:** A sample submission file in the correct format.
 
-**model.ipynb:** Jupyter notebook with model training and prediction steps.
+**Regression_with_an_Abalone_Dataset.ipynb.ipynb:** Jupyter notebook with model training and prediction steps.
 
 
 **Getting Started**
