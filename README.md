@@ -17,7 +17,9 @@ Evaluation: Submissions are evaluated on Root Mean Squared Logarithmic Error (RM
 
 **model.ipynb:** Jupyter notebook with model training and prediction steps.
 
+
 **Getting Started**
+
 To get started with this competition, you can follow these steps:
 
 Clone this repository to your local machine or Kaggle account.
